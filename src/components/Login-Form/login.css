@@ -1,0 +1,42 @@
+.login {
+    margin-top: 25px;
+    border: 1px groove;
+    height: 350px;
+    border-radius: 16px;
+    border-color: #17bf9e;
+    border-width: 2px;
+    padding-right:0.5rem;
+    padding-top: 0%;
+}
+
+.welcome{
+    color: #17bf9e;
+}
+
+input{
+    margin-top: 2rem;
+    margin-left: 3px;
+    height: 50px;
+    width:90%;
+    border-radius: 5px;
+    font-size: larger;
+}
+span i{
+    color: #17bf9e; 
+    width: 60px;
+    height: 40px;
+    margin-left: 4px;
+    margin-bottom: 2px;
+    font-size:35px;
+
+}
+
+button{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    font-size: 35px;
+}
+
+img{
+    margin-top: 4.5rem;
+}
